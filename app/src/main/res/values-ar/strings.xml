@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختبار</string>
+    <string name="next_button">التالي</string>
+    <string name="prev_button">السابق</string>
+    <string name="submit_button">تسليم</string>
+
+</resources>
